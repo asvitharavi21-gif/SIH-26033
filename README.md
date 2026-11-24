@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24/11/2026
+## Reference Number:26009908
+## Name:Asvitha.R
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -15,38 +15,38 @@ Agriculture, FoodTech & Rural Development
 ## Problem Description
 Expected Solution: Create a digital marketplace that:
 
-• Connects farmers/FPOs directly with consumers and bulk buyers.
-• Provides logistics support.
+• Connects farmers/FPOs directly with consumers and bulk buyers.<br>
+• Provides logistics support.<br>
 • Uses AI for demand forecasting and route optimization.
 
 Benefits:
 
-• Better prices for farmers.
-• Lower prices for consumers.
+• Better prices for farmers.<br>
+• Lower prices for consumers.<br>
+
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1.Connect farmers directly with buyers.<br>
+2.Make buying and selling simple.<br>
+3.Use AI to predict market demand.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Frontend: HTML, CSS, JavaScript.<br>
+2.Backend: Python and MySQL.<br>
+3.AI: Demand prediction and route planning.
+<img width="1536" height="1024" alt="Farm-to-Consumer Technical Approach" src="https://github.com/user-attachments/assets/076e6fb5-73f6-4e60-93fc-cab9f84ff7f8" />
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1.Easy and affordable to develop.<br>
+2.Simple for farmers to use.<br>
+3.Partner with local delivery services.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
+1.Better profits for farmers.<br>
+2.Affordable prices for consumers.<br>
+3.Less food waste and faster delivery.
 ## Research and References
 Remove These Lines
-1. Details / Links of the reference and research work
+1.e-NAM – www.enam.gov.in<br>
+2.NABARD – www.nabard.org
